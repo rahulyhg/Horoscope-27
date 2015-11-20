@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">main</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="set_your_birthday">Изменить Дату Рождения</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="set_your_sex">Укажи свой пол:</string>
+    <string name="date_default_text">Выбери Дату Рождения</string>
+    <string name="partner_date_default_text">День Рождения твоей половинки не выбран</string>
+    <string name="set_your_partner">Есть ли у тебя вторая половинка?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="save">Сохранить</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_gson">GsonActivity</string>
+    <string name="title_activity_volley">VolleyActivity</string>
+</resources>
